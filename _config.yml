@@ -14,22 +14,19 @@ author: Fábio Madeira
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
+title: Junaid Lodhi's Resume
+name: Muhammad Junaid Lodhi
+email: junaidlodhi7@gmail.com
+email_full: mailto:junaidlodhi7@gmail.com
+website: github.io/mjunaidlodhi
+website_full: https://biomadeira.github.io/
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+tel: +92 3007 377077
+tel_full: tel:+923327377077
+city: Lahore
+country: Pakistan
+
 
 # needed for travis-ci build
 exclude: [vendor]
